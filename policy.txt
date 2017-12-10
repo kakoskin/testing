@@ -1,0 +1,5 @@
+Privacy-relevant Android permissions requested by this app
+
+CAMERA
+Used for permissions that are associated with accessing camera or capturing images from the device.
+This permission allows this application to read QR codes, captured images are not stored or used for any other purpose than parsing QR-code.
